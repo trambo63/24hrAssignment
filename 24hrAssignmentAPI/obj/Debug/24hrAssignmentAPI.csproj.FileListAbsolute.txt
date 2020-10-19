@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignmentAPI\obj\Debug\24hrAssignmentAPI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignmentAPI\obj\Debug\24hrAssignmentAPI.csproj.CoreCompileInputs.cache

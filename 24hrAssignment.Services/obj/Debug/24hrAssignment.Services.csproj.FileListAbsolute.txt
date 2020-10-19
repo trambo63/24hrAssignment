@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Services\bin\Debug\24hrAssignment.Services.dll
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Services\bin\Debug\24hrAssignment.Services.pdb
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Services\obj\Debug\24hrAssignment.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Services\obj\Debug\24hrAssignment.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Services\obj\Debug\24hrAssignment.Services.dll
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Services\obj\Debug\24hrAssignment.Services.pdb

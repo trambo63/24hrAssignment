@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Models\bin\Debug\24hrAssignment.Models.dll
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Models\bin\Debug\24hrAssignment.Models.pdb
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Models\obj\Debug\24hrAssignment.Models.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Models\obj\Debug\24hrAssignment.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Models\obj\Debug\24hrAssignment.Models.dll
+C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Models\obj\Debug\24hrAssignment.Models.pdb
