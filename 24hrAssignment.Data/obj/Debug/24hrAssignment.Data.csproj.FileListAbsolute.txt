@@ -1,2 +1,0 @@
-C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Data\obj\Debug\24hrAssignment.Data.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\24hrAssignment\24hrAssignment.Data\obj\Debug\24hrAssignment.Data.csproj.CoreCompileInputs.cache
